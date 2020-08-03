@@ -1,2 +1,2 @@
 # HTML-training
-Learning HTLM
+Learning HTML
