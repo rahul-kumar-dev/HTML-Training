@@ -1,2 +1,2 @@
-# HTML-training
+# HTML-Training
 Learning HTML
